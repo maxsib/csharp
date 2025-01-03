@@ -1,0 +1,3 @@
+namespace projectgit;
+
+class Com {}
